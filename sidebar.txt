@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[ley:home|Door43 (ley)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-ley|d43-ley repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-ley/archive/master.zip|d43-ley.zip]]
+
+**Recent Changes**
+{{changes>ns = ley}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/ley|Ethnologue data]]
+
